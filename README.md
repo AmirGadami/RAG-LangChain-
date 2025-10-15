@@ -28,7 +28,7 @@ Enhances the baseline pipeline with document relevance grading:
 - Iteratively re-queries if results are insufficient
 
 **Graph Flow**  
-![CRAG Graph](./images/crag_graph.png)
+![CRAG Graph](CRAG.png)
 
 ### 3. AdaptiveRAG.ipynb
 Introduces query routing and adaptability:
@@ -39,7 +39,7 @@ Introduces query routing and adaptability:
 - Uses LangGraph conditional edges for decision-making
 
 **Graph Flow**  
-![Adaptive RAG Graph](./images/adaptive_rag_graph.png)
+![Adaptive RAG Graph](adaptive_rag.png)
 
 ---
 
