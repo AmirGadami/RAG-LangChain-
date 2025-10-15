@@ -1,0 +1,9 @@
+langchain
+langchain_cohere
+langchain-openai
+langchainhub
+langchain_community
+langgraph
+chromadb
+tiktoken
+cohere
